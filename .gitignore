@@ -115,3 +115,6 @@ dmypy.json
 # Documentation Build
 # =============================================================================
 docs/_build/
+.env
+*.pyc
+.mcp.json
